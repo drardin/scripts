@@ -1,0 +1,154 @@
+{
+  "Departments": [
+    {
+      "Name": "Human Resources",
+      "JobTitles": [
+        "HR Manager",
+        "Recruitment Specialist",
+        "Compensation Analyst",
+        "Employee Relations Coordinator",
+        "Benefits Administrator",
+        "Training Coordinator",
+        "Payroll Specialist",
+        "HR Generalist",
+        "Talent Acquisition Manager",
+        "HR Assistant"
+      ]
+    },
+    {
+      "Name": "Information Technology",
+      "JobTitles": [
+        "IT Manager",
+        "Network Administrator",
+        "Software Engineer",
+        "Database Administrator",
+        "System Analyst",
+        "Security Analyst",
+        "Help Desk Technician",
+        "DevOps Engineer",
+        "Web Developer",
+        "Cloud Architect"
+      ]
+    },
+    {
+      "Name": "Finance",
+      "JobTitles": [
+        "Finance Director",
+        "Financial Analyst",
+        "Accountant",
+        "Tax Specialist",
+        "Auditor",
+        "Budget Analyst",
+        "Investment Analyst",
+        "Credit Analyst",
+        "Financial Planner",
+        "Accounts Payable Specialist"
+      ]
+    },
+    {
+      "Name": "Marketing",
+      "JobTitles": [
+        "Marketing Manager",
+        "Digital Marketing Specialist",
+        "Content Writer",
+        "Brand Manager",
+        "Market Research Analyst",
+        "Social Media Coordinator",
+        "Marketing Coordinator",
+        "SEO Specialist",
+        "Email Marketing Specialist",
+        "Event Coordinator"
+      ]
+    },
+    {
+      "Name": "Sales",
+      "JobTitles": [
+        "Sales Director",
+        "Account Executive",
+        "Sales Manager",
+        "Sales Representative",
+        "Business Development Manager",
+        "Inside Sales Representative",
+        "Sales Coordinator",
+        "Sales Analyst",
+        "Customer Success Manager",
+        "Sales Support Specialist"
+      ]
+    },
+    {
+      "Name": "Operations",
+      "JobTitles": [
+        "Operations Manager",
+        "Logistics Coordinator",
+        "Supply Chain Analyst",
+        "Warehouse Supervisor",
+        "Production Planner",
+        "Quality Assurance Specialist",
+        "Inventory Control Specialist",
+        "Facilities Manager",
+        "Process Engineer",
+        "Operations Assistant"
+      ]
+    },
+    {
+      "Name": "Customer Service",
+      "JobTitles": [
+        "Customer Service Manager",
+        "Customer Support Specialist",
+        "Call Center Representative",
+        "Client Success Manager",
+        "Technical Support Specialist",
+        "Customer Experience Analyst",
+        "Customer Relations Coordinator",
+        "Service Desk Analyst",
+        "Customer Service Coordinator",
+        "Client Services Coordinator"
+      ]
+    },
+    {
+      "Name": "Research and Development",
+      "JobTitles": [
+        "R&D Director",
+        "Research Scientist",
+        "Product Development Engineer",
+        "Innovation Manager",
+        "Lab Technician",
+        "Research Analyst",
+        "R&D Coordinator",
+        "Experimental Scientist",
+        "Product Designer",
+        "Research Assistant"
+      ]
+    },
+    {
+      "Name": "Legal",
+      "JobTitles": [
+        "General Counsel",
+        "Legal Counsel",
+        "Contract Attorney",
+        "Litigation Paralegal",
+        "Compliance Officer",
+        "Legal Researcher",
+        "Intellectual Property Attorney",
+        "Legal Administrator",
+        "Employment Law Specialist",
+        "Legal Analyst"
+      ]
+    },
+    {
+      "Name": "Administration",
+      "JobTitles": [
+        "Executive Assistant",
+        "Administrative Coordinator",
+        "Office Manager",
+        "Administrative Assistant",
+        "Office Coordinator",
+        "Executive Secretary",
+        "Office Administrator",
+        "Administrative Specialist",
+        "Office Assistant",
+        "Clerical Support Specialist"
+      ]
+    }
+  ]
+}
